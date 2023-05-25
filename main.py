@@ -11,7 +11,7 @@ import random
 
 '''
 
-- Developed by @@x0andy
+- Developed by @x0andy
 
 
 '''
