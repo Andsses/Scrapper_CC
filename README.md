@@ -1,11 +1,11 @@
 # SCRAPPER CC
 
-Este codigo es de manera abierta y cualquiera puede modificarlo a su gusto.
+This code is open and anyone can modify it to their liking. just give me one ⭐
 
 
-## Requisitos
+## Requirements
 
-Estas son las librerias que usa este proyecto.
+These are the libraries used by this project.
 
 ```bash
   pip install Telethon
@@ -14,9 +14,9 @@ Estas son las librerias que usa este proyecto.
   pip install names
 ```
     
-## Como usar
+## How to use
 
-Para ejecutarlo simplemente abre una consola de CMD y ve a la carpeta donde tengas el proyecto y una ves dentro de la ruta ejecuta con: Python main.py
+To run it, simply open a CMD console and go to the folder where you have the project and once inside the path run with: Python main.py
 
 
 
