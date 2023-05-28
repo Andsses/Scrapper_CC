@@ -68,7 +68,7 @@ async def my_event_handler(m):
     text = f"""
 <b>CARD :</b> <code>{cc}|{mes}|{ano}|{cvv}</code>\n
 <b>INFO:</b> <i>{bin_json['vendor']} - {bin_json['type']} - {bin_json['level']}</i>\n
-<b>BIN:</b> <a href="https://t.me/ScrapperScar"><code>{binf}</code></a>\n
+<b>BIN:</b> <a href="https://t.me/cc_chargedx"><code>{binf}</code></a>\n
 <b>BANK:</b> {bin_json['bank']} \n
 <b>COUNTRY:</b> {bin_json['country_iso']} - {bin_json['flag']}\n
 ╔══════════ Extra ═════════╗
